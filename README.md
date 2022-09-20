@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Selcookie
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Golang and JavascriptCancel changes
+- 🌱 I’m currently learning Golang and Javascript
 - 💞️ I’m looking to collaborate on any fun projects
 
 <!---
